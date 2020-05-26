@@ -1,0 +1,4 @@
+rootProject.name='EventTrack'
+include ':app'
+include ':plugin'
+include ':sdk'
